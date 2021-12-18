@@ -1,0 +1,10 @@
+.idea
+tests/
+build/
+.php_cs.cache
+.phpunit.result.cache
+test-reports
+composer.lock
+coverage
+vendor
+.env
