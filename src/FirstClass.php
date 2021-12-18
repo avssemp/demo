@@ -23,4 +23,8 @@ class FirstClass
     {
         return $this->one*$this->second;
     }
+    /** */
+    private function aaa(){
+        
+    }
 }
